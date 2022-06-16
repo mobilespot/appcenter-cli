@@ -68,6 +68,7 @@ Below is the list of commands currently supported by Visual Studio App Center CL
 | `appcenter codepush deployment clear` | Clear the release history associated with a deployment |
 | `appcenter codepush deployment history` | Display the release history for a CodePush deployment |
 | `appcenter codepush deployment list` | List the deployments associated with an app |
+| `appcenter codepush deployment get-deployment-by-name` | Get a specific deployment by its name for the given app |
 | `appcenter codepush deployment remove` | Remove CodePush deployment |
 | `appcenter codepush deployment rename` | Rename CodePush deployment |
 | | |
